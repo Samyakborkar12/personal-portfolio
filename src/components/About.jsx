@@ -29,7 +29,7 @@ export default function About() {
             </div>
 
             <p className="text-base sm:text-lg text-neutral-700 dark:text-neutral-300 leading-relaxed">
-              Computer Science student and aspiring software developer passionate about building practical software applications, AI-powered solutions, and modern web experiences.
+              Information Technology student and aspiring software developer passionate about building practical software applications, AI-powered solutions, and modern web experiences.
             </p>
 
             <p className="text-sm sm:text-base text-neutral-600 dark:text-neutral-400 leading-relaxed">
@@ -112,7 +112,7 @@ export default function About() {
 
               <div className="pt-2 border-t border-neutral-100 dark:border-neutral-800 flex items-center justify-between text-xs text-neutral-500">
                 <span>Location: India</span>
-                <span className="text-indigo-600 dark:text-indigo-400 font-medium">CS Student & Developer</span>
+                <span className="text-indigo-600 dark:text-indigo-400 font-medium">IT Student & Developer</span>
               </div>
             </div>
           </div>
